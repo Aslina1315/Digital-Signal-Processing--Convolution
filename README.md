@@ -19,7 +19,7 @@ Step 6: Plot the sequence with x-label and y-label with suitable title
 Step 7: Terminate the program.
 
 ## PROGRAM: 
-% Noorul aslina M  [212223050033]
+```% Noorul aslina M  [212223050033]
 
 clc; % clear screen
 clear all; % clear screen
@@ -57,7 +57,7 @@ stem(n1,z);
 xlabel('time');
 ylabel('amplitude');
 title('linear convolutiond');
-
+```
 
 ## OUTPUT:
 <img width="1908" height="789" alt="Screenshot 2026-04-02 194017" src="https://github.com/user-attachments/assets/7c5dd5c9-6f73-450a-9624-27018363ab2c" />
