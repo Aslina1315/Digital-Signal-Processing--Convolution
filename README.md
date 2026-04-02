@@ -19,7 +19,7 @@ Step 6: Plot the sequence with x-label and y-label with suitable title
 Step 7: Terminate the program.
 
 ## PROGRAM: 
-```% Noorul aslina M  [212223050033]
+% Noorul aslina M  [212223050033]
 
 clc; % clear screen
 clear all; % clear screen
